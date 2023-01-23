@@ -40,7 +40,35 @@ $cashOnHand = 10; //float
 // echo "$fname is $age years old";
 // echo "<br>";
 echo $fname . ' is ' . $age . ' years old'
-echo nl2br("\n$fname is $age years old");
+// echo nl2br("\n$fname is $age years old");
 
+
+//Arithmetic Operators
+echo "<br>";
+
+echo '5' + '5';
+$x = '5' + '5';
+echo "<br>";
+echo $x;
+echo "<br>";
+var_dump($x);
+echo "<br>";
+echo 5 + 5;
+
+echo "<br>";
+echo 10 -6;
+
+echo "<br>";
+echo 95 * 95;
+
+echo "<br>"
+echo 500 / 25;
+
+//Constant -Cannot be changed
+
+echo "<br>";
+define('HOST', ' localhost');
+define('DB_NAME', 'dev-db');
+var_dump(HOST);
 
 ?>
