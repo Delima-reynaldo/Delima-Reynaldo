@@ -17,6 +17,7 @@
 // echo "$fname is $age years older";
 
 // var_dump('Hello');
-var_dump([1,2,3]);
+// var_dump([1,2,3]);
+
 
 ?>
