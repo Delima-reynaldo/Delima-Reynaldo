@@ -68,11 +68,11 @@ foreach($posts as $post) {
     echo "$post <br>";
 }
 /// Associative Array
-$person = {
+$person = [
     'first_name' => 'Reyn',
     'last_name' => 'Delima',
     'email' => 'Xyleaeron89@gmail.com'
-};
+];
 
 //Get Keys
 foreach ($person as $key => $val) {

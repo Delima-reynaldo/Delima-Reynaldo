@@ -52,6 +52,7 @@
 // echo $sum;
 
 //Arrow functions
-$multiply = fn($num1, $num2) => $num1 * $num2;
 
-echo $multiply(90,90);
+// $multiply = fn($num1, $num2) => $num1 * $num2;
+
+// echo $multiply(90,90);

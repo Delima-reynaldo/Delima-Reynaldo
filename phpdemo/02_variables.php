@@ -25,7 +25,7 @@
 $fname = 'Reyn'; //String can be single or double quotes
 $age = 41; //integer
 $haskids = False; //Boolean
-$cashOnHand = 10; //float
+// $cashOnHand = 10; //float
 
 // echo "$fname is $age years old";
 // echo $haskids;
@@ -39,7 +39,7 @@ $cashOnHand = 10; //float
 //concatenate strings
 // echo "$fname is $age years old";
 // echo "<br>";
-echo $fname . ' is ' . $age . ' years old'
+echo $fname . ' is ' . $age . ' years old';
 // echo nl2br("\n$fname is $age years old");
 
 
@@ -61,7 +61,7 @@ echo 10 -6;
 echo "<br>";
 echo 95 * 95;
 
-echo "<br>"
+echo "<br>";
 echo 500 / 25;
 
 //Constant -Cannot be changed
@@ -70,5 +70,6 @@ echo "<br>";
 define('HOST', ' localhost');
 define('DB_NAME', 'dev-db');
 var_dump(HOST);
+
 
 ?>

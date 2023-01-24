@@ -23,22 +23,22 @@ echo $person["first_name"];
 
 $people = [
     [
-        "first_name" => "Ryan",
-        "last_name" => "Azur",
-        "email" => "proxy@gmail.com",
+        "first_name" => "Reynaldo",
+        "last_name" => "Delima",
+        "email" => "reyndelima@gmail.com",
     ],
 
     [
-        "first_name" => "Ryan",
-        "last_name" => "Azur",
-        "email" => "proxy@gmail.com",
+        "first_name" => "Reyna",
+        "last_name" => "Deli",
+        "email" => "delima@gmail.com",
 
     ],
 
     [
-        "first_name" => "Ryan",
-        "last_name" => "Azur",
-        "email" => "proxy@gmail.com",
+        "first_name" => "Reyn",
+        "last_name" => "Delima",
+        "email" => "xylearon89@gmail.com",
 
     ],
 ];
